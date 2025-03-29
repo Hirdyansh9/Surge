@@ -1,7 +1,7 @@
 # SURGE- Surgical Utility for Reinforcement-based Guidance and Evaluation 
 
 SURGE is an AR/VR-based surgical training system that integrates:
-1. Deep Neural Networks (DNNs) for organ recognition and sub-part segmentation
+1. Deep Neural Networks (DNNs) for object recognition and segmentation
 2. Reinforcement Learning (RL) to provide real-time corrective haptic feedback
 3. Immersive 3D Visualization through an AR/VR environment
 4. Haptic Devices to replicate tactile sensations
